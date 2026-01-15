@@ -24,7 +24,7 @@ Ethical hacking tools are a crucial resource in the fight against malicious acto
 
 [ReconAI :](https://getrecon.ai) This one’s more of a concept than a packaged tool – think of it as combining AI with OSINT techniques to speed up reconnaissance. Instead of digging manually through social media, subdomains, or Pastebin leaks, AI helps spot interesting patterns faster.No official download –  users usually build this using GPT APIs and tools like Maltego or SpiderFoot.
 
-[XploitGPT :](http://ww38.xploitgpt.com/) This tool’s a lifesaver if you’ve ever needed help whipping up a quick reverse shell or decoding obfuscated scripts. It leans on generative AI to assist with exploit writing and even helps break down complex payloads. **Recommended**
+[XploitGPT :](http://www.xploitgpt.com/) This tool’s a lifesaver if you’ve ever needed help whipping up a quick reverse shell or decoding obfuscated scripts. It leans on generative AI to assist with exploit writing and even helps break down complex payloads.
 
 [HackerAI :](https://hackerai.io/) More focused on code review, this tool uses AI to dig through codebases and sniff out sketchy logic, unsafe inputs, or overlooked security flaws. It is ideal for security audits where traditional scanners miss the nuance.
 
