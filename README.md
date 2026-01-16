@@ -1,5 +1,5 @@
-# 100-Hacking-Tools
-100 Hacking tools that is Legal to use
+# 100 Hacking Tools
+100 Top Ethical Hacking Tools and Software Tools In Cybersecurity
 
 ## What is Ethical Hacking?
 
@@ -18,9 +18,12 @@
  * They strengthen organizations’ cybersecurity posture by offering insights into how to address security vulnerabilities, leading to fewer security incidents and reduced costs of cyberattacks.
 
 ## How Are Ethical Hacking Tools Useful for Cybersecurity Professionals?
-Ethical hacking tools are a crucial resource in the fight against malicious actors and cyber attacks. By using ethical hacking tools, IT security professionals can identify flaws in computer systems, applications, and networks before malicious actors discover them. If you are searching for the best hacking tools and ethical hacking tools, we have curated and categorized some of the best options based on the functionality they offer.
+  Ethical hacking tools are a crucial resource in the fight against malicious actors and cyber attacks. By using ethical hacking tools, IT security professionals can identify flaws in computer systems, applications, and networks before malicious actors discover them. If you are searching for the best hacking tools and ethical hacking tools, we have curated and categorized some of the best options based on the functionality they offer.
 
-# AI Hacking tools
+# 100 Hacking Tools
+
+
+## AI Hacking tools
 
 [ReconAI :](https://getrecon.ai) This one’s more of a concept than a packaged tool – think of it as combining AI with OSINT techniques to speed up reconnaissance. Instead of digging manually through social media, subdomains, or Pastebin leaks, AI helps spot interesting patterns faster.No official download –  users usually build this using GPT APIs and tools like Maltego or SpiderFoot.
 
@@ -41,3 +44,41 @@ Ethical hacking tools are a crucial resource in the fight against malicious acto
 [Elastic Security + ML:](https://www.elastic.co/security) Elastic Stack (ELK) has a security arm that lets you use machine learning to pick up log anomalies. Think brute force attempts, weird login hours, or data exfil – and it’s highly customizable.
 
 [AutoSploit](https://github.com/NullArray/Autosploit) **(AI-enhanced workflows)** : AutoSploit links up Shodan with Metasploit. The AI twist? It can be modified to auto-prioritize targets or use AI to pick payloads more intelligently based on context.
+
+## Network Scanning Tools
+
+[Nmap:](https://nmap.org/) A free and open-source network scanner tool. Nmap supports various scan types and protocols, including TCP, UDP, SYN, and more.
+
+[Angry IP Scanner:](https://angryip.org/) A free and open-source IP address scanner. Users can scan IP addresses and ports, receiving basic information about each host.
+
+[Zenmap:](https://nmap.org/zenmap/) A free and open-source Nmap GUI interface. Zenmap offers a visual interpretation of Nmap results, letting you manipulate and interpret Nmap scans more easily.
+
+[Advanced IP Scanner:](https://www.advanced-ip-scanner.com/) A free IP scanner tool. Advanced IP Scanner offers features like remote shutdown and wake-on-LAN.
+
+[Fping:](https://fping.org/) A free and open-source ping tool for network diagnosis. Fping sends ICMP pings to multiple hosts simultaneously to help diagnose network problems.
+
+[SuperScan:](https://superscan.en.softonic.com/) A free multi-functional port scanner. SuperScan offers features such as host discovery and trace routing.
+
+[Unicornscan:](https://www.kali.org/tools/unicornscan/) A free and open-source TCP and UDP port scanner. Unicornscan uses asynchronous scanning techniques, letting users scan large networks more quickly and efficiently.
+
+[Netcat:](https://netcat.sourceforge.net/) A free and open-source network utility tool. Netcat can be used for a wide variety of tasks, including port scanning, file transfer, and remote command execution.
+
+[NetScanTools:](https://www.netscantools.com/) A network diagnostic toolkit with free and paid versions. NetScanTools includes utilities for pings, traceroutes, DNS lookups, and more.
+
+[Nessus:](https://www.tenable.com/products/nessus) A paid vulnerability scanner for network analysis. Nessus helps identify security vulnerabilities with comprehensive network scans, providing users with detailed reports.
+
+## Vulnerability Scanning Tools
+
+[OpenVAS:](https://openvas.org/) A free and open-source vulnerability scanner. OpenVAS can perform comprehensive security assessments and performance tuning.
+
+[Acunetix:](https://www.acunetix.com/) A paid web application vulnerability scanner. Acunetix offers advanced scanning techniques and comprehensive reporting to identify more than 7,000 vulnerabilities in web applications.
+
+[Qualys Cloud Platform:](https://www.qualys.com/cloud-platform/) A paid cloud-based vulnerability management platform with a 30-day trial. Qualys provides continuous monitoring and visibility across networks, web applications, and endpoints in an IT ecosystem.
+
+[Nexpose:](https://www.rapid7.com/products/nexpose/) A paid comprehensive on-premises vulnerability scanner with a 30-day trial. Nexpose scans and identifies vulnerabilities in network assets, databases, web applications, and even virtualization and cloud infrastructure.
+
+[SAINT Security Suite:](https://www.carson-saint.com/products/saint-security-suite/) A paid security scanner and penetration testing tool with a free trial. SAINT includes features for vulnerability management, configuration assessment, penetration testing, incident response, and reporting.
+
+[Nikto:](https://github.com/DominicBreuker/nikto_docker) A free and open-source web server scanner and tester. Nikto can check for more than 6,000 potentially dangerous files and programs on web servers, as well as outdated servers and other problems.
+
+[GFI LanGuard:](https://www.gfi.com/products-and-solutions/network-security-solutions/languard) A paid network security scanner and tool for endpoint protection and patch management with a demo. GFI LanGuard can scan networks to identify vulnerabilities, manage patches, and ensure compliance with security standards.
