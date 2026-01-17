@@ -22,17 +22,17 @@
 
 # 100 Hacking Tools
 ## Table of Contents:
--  ### AI Hacking tools
--  ### Network Scanning Tools
--  ### Vulnerability Scanning Tools
--  ### Password Cracking Tools
--  ### Exploitation Tools
--  ### Packet Sniffing and Spoofing Tools
--  ### Wireless Hacking Tools
--  ### Web Application Hacking Tools
--  ### Forensic Tools
--  ### Social Engineering Tools
--  ### Miscellaneous Tools
+-   [AI Hacking tools](#ai-hacking-tools)
+-   [Network Scanning Tools](#network-scanning-tools)
+-   [Vulnerability Scanning Tools](#vulnerability-scanning-tools)
+-   [Password Cracking Tools](#password-cracking-tools)
+-   [Exploitation Tools](#exploitation-tools)
+-   [Packet Sniffing and Spoofing Tools](#packet-sniffing-and-spoofing-tools)
+-   [Wireless Hacking Tools](#wireless-hacking-tools)
+-   [Web Application Hacking Tools](#web-application-hacking-tools)
+-   [Forensic Tools](#forensic-tools)
+-   [Social Engineering Tools](#social-engineering-tools)
+-   [Miscellaneous Tools](#miscellaneous-tools)
 
 
 ## AI Hacking tools
