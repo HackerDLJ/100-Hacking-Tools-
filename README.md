@@ -21,6 +21,18 @@
   Ethical hacking tools are a crucial resource in the fight against malicious actors and cyber attacks. By using ethical hacking tools, IT security professionals can identify flaws in computer systems, applications, and networks before malicious actors discover them. If you are searching for the best hacking tools and ethical hacking tools, we have curated and categorized some of the best options based on the functionality they offer.
 
 # 100 Hacking Tools
+## Table of Contents:
+-  ### AI Hacking tools
+-  ### Network Scanning Tools
+-  ### Vulnerability Scanning Tools
+-  ### Password Cracking Tools
+-  ### Exploitation Tools
+-  ### Packet Sniffing and Spoofing Tools
+-  ### Wireless Hacking Tools
+-  ### Web Application Hacking Tools
+-  ### Forensic Tools
+-  ### Social Engineering Tools
+-  ### Miscellaneous Tools
 
 
 ## AI Hacking tools
